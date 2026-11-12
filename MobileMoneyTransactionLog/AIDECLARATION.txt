@@ -1,0 +1,22 @@
+AI USE DECLARATION
+
+Course: BCS 2204 - Data Structures and Algorithms
+
+Project: Mobile Money Agent Transaction Log
+
+AI Tool Used: ChatGPT
+
+Purpose of Use:
+AI was used to assist with understanding the coursework
+requirements, explaining C++ data structures and algorithms,
+and providing guidance on program implementation,
+testing and complexity analysis.
+
+Student Contribution:
+I reviewed and studied the suggested implementation,
+worked on creating and testing my own program,
+analysed the results, and prepared my individual
+coursework submission.
+
+I understand that I am responsible for the submitted work
+and can explain and demonstrate its operation.
